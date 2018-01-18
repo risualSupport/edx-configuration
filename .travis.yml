@@ -6,6 +6,7 @@ python:
 branches:
   only:
   - master
+  - ginkgo2tweaks
 
 services:
   - docker
