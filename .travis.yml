@@ -6,6 +6,7 @@ python:
 branches:
   only:
   - master
+  - ficusMasterTweaks
 
 services:
   - docker
